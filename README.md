@@ -1,4 +1,4 @@
 # GachiLand
 
-MMORPG
+MORPG
  
