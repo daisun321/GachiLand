@@ -336,20 +336,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/GachiLand/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/GachiLand/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/physical-linkage/Projects/GachiLand
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ee2d0000
-    m_LastClickedID: 11758
-    m_ExpandedIDs: 00000000ee2d000000ca9a3b
+    m_SelectedIDs: a4280000
+    m_LastClickedID: 10404
+    m_ExpandedIDs: 00000000202600009c28000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -377,7 +377,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ee2d0000
+    m_ExpandedIDs: 0000000020260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -404,7 +404,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -498,7 +498,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 66f5ffff
+      m_ExpandedIDs: d6fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -514,7 +514,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 4}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -554,9 +554,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: -2.0686204, y: -0.45146537, z: -0.64122176}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: -2.0686204, y: -0.45146537, z: -0.64122176}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -584,13 +584,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: -0.05336491, y: 0.94650877, z: -0.21694155, w: -0.23282991}
     speed: 2
-    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Value: {x: -0.05336491, y: 0.94650877, z: -0.21694155, w: -0.23282991}
   m_Size:
-    m_Target: 10
+    m_Target: 8.499999
     speed: 2
-    m_Value: 10
+    m_Value: 8.499999
   m_Ortho:
     m_Target: 0
     speed: 2
