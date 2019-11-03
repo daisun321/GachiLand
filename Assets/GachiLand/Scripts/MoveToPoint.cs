@@ -48,7 +48,7 @@ public class MoveToPoint : MonoBehaviour
         if ((point - transform.position).magnitude > minimunRadius)
         {
             Target = point;
-            Rigidbody.transform.LookAt(Target);
+            transform.LookAt(Target);
         }
     }
 
